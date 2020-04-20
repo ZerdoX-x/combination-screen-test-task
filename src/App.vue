@@ -1,27 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <combination-section />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
-
+import CombinationSection from "./components/CombinationSection/CombinationSection";
 export default {
   name: "App",
-  components: {
-    HelloWorld
-  }
+  components: { CombinationSection }
 };
 </script>
 
-<style lang="stylus">
+<style lang="stylus" scoped>
 #app
-  font-family Avenir, Helvetica, Arial, sans-serif
-  -webkit-font-smoothing antialiased
-  -moz-osx-font-smoothing grayscale
-  text-align center
-  color #2c3e50
-  margin-top 60px
+  background rgba(9, 7, 39, 0.88)
+  min-width 100vw
 </style>
