@@ -14,7 +14,7 @@
   font-style normal
   color #FFFFFF
   font-size calc(157% + 2.03vw)
-  line-height 66px
+  line-height calc(100% + 0.5vw)
   font-family Vollkorn
   width 70.9375vw
 </style>
