@@ -15,5 +15,4 @@ export default {
 <style lang="stylus" scoped>
 #app
   background rgba(9, 7, 39, 0.88)
-  min-width 100vw
 </style>

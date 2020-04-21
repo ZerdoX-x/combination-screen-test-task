@@ -1,6 +1,6 @@
 <template>
-  <section>
-    <icon></icon>
+  <section class="combination-section">
+    <icon />
     <heading>Combination Section</heading>
     <subtitle>
       It never was so easy to create a passive income in crypto.
@@ -70,4 +70,9 @@ export default {
 };
 </script>
 
-<style lang="stylus" scoped></style>
+<style lang="stylus" scoped>
+.combination-section
+  display flex
+  flex-direction column
+  background rgba(9, 12, 19, 0.83)
+</style>
