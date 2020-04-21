@@ -70,8 +70,8 @@
 .icon-wrapper
   align-self center
   width 11.1666vw
-  max-width 168px
-  min-width 98px
+  max-width 108px
+  min-width 63px
 
 .icon-top-indent
   height 6.7361vw
