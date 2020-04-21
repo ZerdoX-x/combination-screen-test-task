@@ -77,5 +77,4 @@ export default {
 .combination-section
   display flex
   flex-direction column
-  background rgba(9, 12, 19, 0.83)
 </style>
