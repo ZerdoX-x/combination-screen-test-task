@@ -23,9 +23,9 @@ export default {
 
 .app__content
   flex-grow 1
+  max-width 1240px
 
 .app__indent
-  width 6.9444vw
+  flex-grow 1
   min-width 20px
-  z-index 50
 </style>
