@@ -1,7 +1,10 @@
 <template>
   <section class="combination-section">
     <icon />
-    <heading>Combination Section</heading>
+    <heading>
+      The unique combination<br />
+      of the exchange & investment platform
+    </heading>
     <subtitle>
       It never was so easy to create a passive income in crypto.
     </subtitle>
