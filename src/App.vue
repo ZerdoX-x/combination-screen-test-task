@@ -21,6 +21,7 @@ export default {
   background #090C13
   display flex
   overflow hidden
+  min-height 100vh
 
 .app__content
   flex-grow 1
