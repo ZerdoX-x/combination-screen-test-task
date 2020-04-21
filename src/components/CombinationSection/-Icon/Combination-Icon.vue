@@ -1,11 +1,7 @@
 <template>
   <div class="icon-wrapper">
     <div class="icon-top-indent" />
-    <svg
-      viewBox="0 0 168 105"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-    >
+    <svg viewBox="0 0 168 105" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g filter="url(#filter0_d)">
         <path
           fill-rule="evenodd"

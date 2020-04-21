@@ -22,6 +22,7 @@ export default {
   display flex
   overflow hidden
   min-height 100vh
+  position relative
 
 .app__content
   flex-grow 1

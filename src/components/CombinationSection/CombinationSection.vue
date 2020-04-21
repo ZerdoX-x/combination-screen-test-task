@@ -549,9 +549,6 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-.combination-section
-  position relative
-
 .combination-section__content
   z-index 1
   display flex
