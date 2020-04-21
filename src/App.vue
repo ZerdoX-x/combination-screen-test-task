@@ -20,6 +20,7 @@ export default {
 #app
   background #090C13
   display flex
+  overflow hidden
 
 .app__content
   flex-grow 1
