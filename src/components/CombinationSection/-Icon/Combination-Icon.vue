@@ -2,12 +2,11 @@
   <div class="icon-wrapper">
     <div class="icon-top-indent" />
     <svg
-      class="icon"
-      viewBox="0 0 108 45"
+      viewBox="0 0 168 105"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g filter="url(#filter0_d)" transform="translate(-30, -30)">
+      <g filter="url(#filter0_d)">
         <path
           fill-rule="evenodd"
           clip-rule="evenodd"
@@ -69,15 +68,17 @@
 <style lang="stylus" scoped>
 .icon-wrapper
   align-self center
+  display flex
+  align-items center
+  flex-direction column
   width 11.1666vw
-  max-width 108px
-  min-width 63px
+  max-width 168px
+  min-width 98px
 
 .icon-top-indent
-  height 6.7361vw
+  height calc(6.7361vw - 30px)
   min-height 21px
 
 .icon-bottom-indent
-  height 2.9167vw
-  min-height 20px
+  height calc(2.9167vw - 30px)
 </style>
