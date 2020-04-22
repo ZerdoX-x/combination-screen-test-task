@@ -7,6 +7,7 @@
 </template>
 
 <style lang="stylus" scoped>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 .tile-button
 .tile-button__content
   transition background-color 0.3s, color 0.3s

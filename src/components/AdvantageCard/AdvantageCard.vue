@@ -19,6 +19,7 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 .advantage-card
   display flex
   flex-wrap wrap

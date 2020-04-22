@@ -9,6 +9,7 @@
 </template>
 
 <style lang="stylus" scoped>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 .subtitle-wrapper
   align-self center
   width 60vw
